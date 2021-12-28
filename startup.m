@@ -1,0 +1,1 @@
+iptsetpref imshowAxesVisible off
